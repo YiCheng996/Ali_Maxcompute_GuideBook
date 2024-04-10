@@ -1,0 +1,10 @@
+https://help.aliyun.com/zh/maxcompute/user-guide/hologres-foreign-tables#task-2040589
+https://help.aliyun.com/zh/maxcompute/user-guide/hologres-foreign-tables
+https://help.aliyun.com/zh/maxcompute/user-guide/connect-finebi-to-maxcompute#task-2095589
+https://help.aliyun.com/zh/maxcompute/user-guide/faq-3
+https://help.aliyun.com/zh/maxcompute/user-guide/getting-started-4?spm=a2c4g.11186623.0.0.1e7f311d235QTd
+https://help.aliyun.com/zh/maxcompute/user-guide/connect-datagrip-to-maxcompute?spm=a2c4g.11186623.0.0.468feb795ccmjF
+https://help.aliyun.com/zh/maxcompute/user-guide/support-for-delta-lake-or-hudi-storage-mechanism-based-on
+https://help.aliyun.com/zh/maxcompute/user-guide/create-a-maxcompute-table
+https://help.aliyun.com/zh/maxcompute/user-guide/create-and-use-maxcompute-resources
+https://help.aliyun.com/zh/maxcompute/user-guide/use-logview-v2-0-to-view-job-information
